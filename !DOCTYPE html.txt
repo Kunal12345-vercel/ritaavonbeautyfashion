@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<index.html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -168,4 +168,5 @@ salons, beauty shops and online sellers.
 </footer>
 
 </body>
+
 </html>
