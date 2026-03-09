@@ -12,8 +12,8 @@
 
 <meta name="author" content="Rita Fashion Beauty">
 
-<style>
-
+<style
+css>
 body{
 font-family: Arial, sans-serif;
 margin:0;
@@ -170,3 +170,4 @@ salons, beauty shops and online sellers.
 </body>
 
 </html>
+
